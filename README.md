@@ -3,5 +3,5 @@ Basic HTML for website
 <!DOCTYPE html>
 <html>
 <head>
-<title>First Light Productions</title>
+<title>Cutting Edge Painting</title>
 <meta charset="utf-8"/>
